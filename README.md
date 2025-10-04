@@ -5,3 +5,4 @@ ultra - sends a random ultra gif from dblegends
 !randomlink- Random linkskill from dokkan wiki
 dbmovie- a random db movie
 Please note you have to create the bot yourself and inset its Token into the source code i trust that you know how to do that 
+Once you have inserted the bot token like this "ExampleToken" you must run it via terminal
