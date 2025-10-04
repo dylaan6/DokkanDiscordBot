@@ -1,2 +1,7 @@
-# DokkanDiscordBot
-This bot was made for fun you are free to take it and use it keep in mind this is only the source code you have to make a discord bot by yourself i trust that you know how to do that Anways here are the bots feautures - "Random lr-Sends a random Lr from the dokkan wiki" "RandomLinkSkill/Tag-sends a random linkskill/tag" and more in readme
+for dokkanbot-
+!randomlr- random Lr from dokkan
+ultra - sends a random ultra gif from dblegends
+!randomcategory - random category from dokkan wiki
+!randomlink- Random linkskill from dokkan wiki
+dbmovie- a random db movie
+Please note you have to create the bot yourself and inset its Token into the source code i trust that you know how to do that 
